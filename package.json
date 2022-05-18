@@ -1,0 +1,28 @@
+{
+  "name": "soap-web-node",
+  "version": "1.0.0",
+  "description": "web service soap en node",
+  "main": "app.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/ricardo-ave-gonzalez/soap-web-node.git",
+  "keywords": [
+    "SOAP",
+    "node.js",
+    "express",
+    "SOAP-server",
+    "SOAP-client",
+    "server",
+    "client",
+    "web",
+    "service"
+  ]
+  "author": "ave",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "soap": "^0.19.0"
+  }
+}
